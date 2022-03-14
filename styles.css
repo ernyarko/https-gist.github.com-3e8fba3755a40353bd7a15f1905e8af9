@@ -1,0 +1,38 @@
+table {
+    width: 400px;
+    position: center;
+    margin: 100px;
+    margin-top: 50px;
+  }
+  
+  caption {
+    font-weight: bolder;
+    background-color: grey;
+    border: 1px solid #000;
+    font-size: 40px;
+    font-style: italic;
+  }
+  
+   table, th, td {
+     border: 1px solid #000;
+     border-collapse: collapse;
+   }
+  
+   .subjects {
+     font-size: 30px;
+     font-weight: bold;
+     background-color: rgb(202, 202, 48);
+   }
+  
+   .good {
+      font-size: 20px;
+     background-color: rgb(187, 144, 151);
+     font-weight: bold;
+  
+   }
+  
+   .average {
+     font-size: 20px;
+     background-color: rgb(202, 202, 48);
+     font-weight: bold;
+   }
